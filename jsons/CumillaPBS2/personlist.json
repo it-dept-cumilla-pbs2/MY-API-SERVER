@@ -370,6 +370,27 @@
 			]
 		},
 		{
+			"empId": 19951230000792,
+			"order_no": 4,
+			"name": "কাজী হাফিজুল ইসলাম",
+			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/341694734_746055033837078_4580102837303515363_n.jpg",
+			"designation": "ডেপুটি জেনারেল ম্যানেজার",
+			"gender": "male",
+			"dob": "10-01-1964",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০১১৯",
+			"mobile_2": "",
+			"email": "bagmara.comillapbs2@gmail.com",
+			"section_id": [
+				0, 9
+			],
+			"office_id": [
+				7
+			]
+		},
+		{
 			"empId": 20080930000707,
 			"order_no": 4,
 			"name": "মোঃ মাসুদুল আলম",
@@ -435,19 +456,19 @@
 			]
 		},
 		{
-			"empId": 19970810000405,
+			"empId": 20141110000426,
 			"order_no": 6,
-			"name": "ওয়াদুদ খন্দকার",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/20a011d1_c335_494a_8ce3_acda57fc379a/48f8f8b42bf02d47a70e46f4c71cffca.png",
+			"name": "মোঃ এমায়েত হোসেন",
+			"image": "https://raw.githubusercontent.com/it-dept-cumilla-pbs2/MY-API-SERVER/main/images/agm_ad.png",
 			"designation": "সহকারী জেনারেল ম্যানেজার (প্রশাসন)",
 			"gender": "male",
-			"dob": "01-01-1971",
+			"dob": "01-03-1983",
 			"blood_group": "B+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "01769407396",
+			"mobile_1": "০১৭৬৯৪০০৩৭৫",
 			"mobile_2": "",
-			"email": "chandpurpbs2@gmail.com",
+			"email": "comillapbs2@gmail.com",
 			"section_id": [
 				3, 9
 			],
@@ -456,62 +477,19 @@
 			]
 		},
 		{
-			"empId": 19901020000634,
+			"empId": 20140630000900,
 			"order_no": 7,
-			"name": "মালিক মো: ইয়াহিয়া",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/c658b29c_6de7_4b32_9e0c_b11b2060918e/6f5ded891959fec920adf227efb8e679.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (সদস্য সেবা)",
+			"name": "রাজীব চন্দ্র ভৌমিক",
+			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1639194003996.png",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ইএন্ডসি)",
 			"gender": "male",
-			"dob": "22-10-1964",
+			"dob": "01-06-1988",
 			"blood_group": "O+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "01769402154",
+			"mobile_1": "০১৭৬৯৪০০৩৭৯",
 			"mobile_2": "",
-			"email": "yeahia@hotmail.com",
-			"section_id": [
-				2, 9
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
-			"empId": 20201130026303,
-			"order_no": 8,
-			"name": "মিফতাহ উদ্দিন",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/9276ab1e_5dee_48ac_bff4_42ef406f9184/edfabbfdf5993c383170bce06894168f.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)-সদর দপ্তর",
-			"gender": "male",
-			"dob": "01-07-1990",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "01769400333",
-			"mobile_2": "",
-			"email": "miftahuddin.mec@gmail.com",
-			"section_id": [
-				4,
-				9
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
-			"empId": 20010937001723,
-			"order_no": 9,
-			"name": "মো: শাহাবুদ্দিন",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/00120f47_c4b1_45e6_9944_d759dd82f967/e51fffa871e35d75e4a8105dccd1eccc.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (ইএন্ডসি)",
-			"gender": "male",
-			"dob": "01-03-1974",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "01769402597",
-			"mobile_2": "",
-			"email": "chandpurpbs2@gmail.com",
+			"email": "comdept.cpbs2@gmail.com",
 			"section_id": [
 				5, 9
 			],
@@ -520,19 +498,63 @@
 			]
 		},
 		{
-			"empId": 20211025029898,
-			"order_no": 10,
-			"name": "মো: সোহাগ মিয়া",
-			"image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//63b/bd7/c29/63bbd7c29c6ea467907977.jpg",
-			"designation": "সহকারী জেনারেল ম্যানেজার (আইটি)",
+			"empId": 20160130000977,
+			"order_no": 8,
+			"name": "আহম্মদ মশিউল আলম",
+			"image": "https://file-chittagong.portal.gov.bd/files/pbs2.comilla.gov.bd/page/5c116060_4876_47dc_9603_fc48aad06686/fff696bd04268124d0859f9ca016a20d.jpg",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "15-07-1996",
-			"blood_group": "B+",
+			"dob": "06-11-1985",
+			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "01923655069",
+			"mobile_1": "০১৭৬৯৪০২৫৬৭",
 			"mobile_2": "",
-			"email": "sohaga412@gmail.com",
+			"email": "miyabazarszo@gmail.com",
+			"section_id": [
+				0,
+                4,
+				9
+			],
+			"office_id": [
+				12
+			]
+		},
+		{
+			"empId": 20160330001003,
+			"order_no": 9,
+			"name": "মোঃ মাহমুদুল হক",
+			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1657173858508.jpeg",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/এমএস-অঃদাঃ)",
+			"gender": "male",
+			"dob": "10-11-1992",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩৮০",
+			"mobile_2": "০১৭৬৯৪০০৩৭৬",
+			"email": "comdept.cpbs2@gmail.com",
+			"section_id": [
+				2, 4, 9
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20220125031535,
+			"order_no": 10,
+			"name": "মোঃ সাইফুল হক",
+			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/My%20Formal%20passport%20sized%20pic.jpg",
+			"designation": "সহকারী জেনারেল ম্যানেজার (আইটি)",
+			"gender": "male",
+			"dob": "01-01-1995",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭০৪১০৬৭১০",
+			"mobile_2": "",
+			"email": "itcumillapbs2@gmail.com",
 			"section_id": [
 				6, 9
 			],

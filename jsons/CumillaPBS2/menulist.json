@@ -315,7 +315,16 @@
 			"id": 3,
 			"parent_id": "",
 			"has_child": false,
-			"title": "প্রশাসন/মানব সম্পদ শাখা",
+			"title": "প্রশাসন শাখা",
+			"link": null, 
+            "link_type": 0
+		},
+		{
+			"order_no": 4,
+			"id": 11,
+			"parent_id": "",
+			"has_child": false,
+			"title": "মানব সম্পদ শাখা",
 			"link": null, 
             "link_type": 0
 		},
@@ -379,15 +388,6 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "কর্মচারীবৃন্দ",
-			"link": null, 
-            "link_type": 0
-		},
-		{
-			"order_no": 11,
-			"id": 11,
-			"parent_id": "",
-			"has_child": false,
-			"title": "বাগাদী অভিযোগ কেন্দ্র",
 			"link": null, 
             "link_type": 0
 		},
