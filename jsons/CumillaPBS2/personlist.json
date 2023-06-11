@@ -384,28 +384,50 @@
 			"mobile_2": "",
 			"email": "dgmtechcomillapbs2@gmail.com",
 			"section_id": [
-				4,5,9
+				4,5,9,28
 			],
 			"office_id": [5]
 		},
 		{
-			"empId": 19891115000563,
+			"empId": 19850415000519,
 			"order_no": 5,
-			"name": "মো: রহমতে সোবাহান",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/cde4a3e4_a9da_47d8_b735_e3624dfc27d1/14c66168dd5ebf031a91234fe8abef9a.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (অর্থ)",
+			"name": "মোঃ গোলজার আনোয়ার হোসেন চৌধুরী",
+			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1640751342953.png",
+			"designation": "সহকারী জেনারেল ম্যানেজার (অর্থ-রাজস্ব)",
 			"gender": "male",
-			"dob": "20-08-1963",
+			"dob": "31-08-1964",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩৭৭",
+			"mobile_2": "",
+			"email": "comillapbs2@gmail.com",
+			"section_id": [
+				1,
+				8,
+				9
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20141215000535,
+			"order_no": 5,
+			"name": "মোঃ জসিম উদ্দিন",
+			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1639194057346.png",
+			"designation": "সহকারী জেনারেল ম্যানেজার (অর্থ-হিসাব)",
+			"gender": "male",
+			"dob": "22-04-1987",
 			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "01769407397",
+			"mobile_1": "০১৭৬৯৪০০৩৭৮",
 			"mobile_2": "",
-			"email": "resobhan@gmail.com",
+			"email": "cumillapbs2fa@gmail.com",
 			"section_id": [
 				1,
 				7,
-				8,
 				9
 			],
 			"office_id": [
