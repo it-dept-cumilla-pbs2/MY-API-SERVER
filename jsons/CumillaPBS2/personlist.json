@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.02,
+	"version": 1.03,
 	"person_list": [
         {
 			"empId": 202223000001,
@@ -563,19 +563,126 @@
 			]
 		},
 		{
-			"empId": 20201230026376,
+			"empId": 19990430001027,
 			"order_no": 12,
-			"name": "মোঃ রায়হানুল ইসলাম",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/d191c2c7_9b94_4982_851d_84a770cae914/d3cb73db57df2af3d8caf0ea6c04c255.png",
+			"name": "মোহাম্মদ আবু জাফর",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.comilla.gov.bd/page/5c116060_4876_47dc_9603_fc48aad06686/4df2c64506f14bd0ce3ce23804edd620.jpg",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "05-01-1994",
+			"dob": "15-11-1975",
 			"blood_group": "B+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "01769400328",
+			"mobile_1": "০১৭৬৯৪০৭০২৫",
 			"mobile_2": "",
-			"email": "raihanduet46@gmail.com",
+			"email": "mainamatiszo@gmail.com",
+			"section_id": [
+				4, 9
+			],
+			"office_id": [
+				8
+			]
+		},
+		{
+			"empId": 2016030001048,
+			"order_no": 13,
+			"name": "মোঃ আবদুল কাদের জিলানী",
+			"image": "https://raw.githubusercontent.com/it-dept-cumilla-pbs2/MY-API-SERVER/main/images/agm_onm_14zo.png",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "27-02-1987",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩৮৪",
+			"mobile_2": "",
+			"email": "chouddogram.comillapbs2@gmail.com",
+			"section_id": [
+				4, 9
+			],
+			"office_id": [
+				6
+			]
+		},
+		{
+			"empId": 19991030001165,
+			"order_no": 14,
+			"name": "মীর আবু জামান",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.comilla.gov.bd/page/5c116060_4876_47dc_9603_fc48aad06686/d6fa053ddeaaa5859e5d05554b566390.jpg",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "16-12-1971",
+			"blood_group": "O-",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩৮৬",
+			"mobile_2": "",
+			"email": "burichong.comillapbs2@gmail.com",
+			"section_id": [
+				4,
+				9
+			],
+			"office_id": [
+				9
+			]
+		},
+		{
+			"empId": 20181030001199,
+			"order_no": 14,
+			"name": "মোঃ কাউছার আহাম্মদ",
+			"image": "https://raw.githubusercontent.com/it-dept-cumilla-pbs2/MY-API-SERVER/main/images/agm_onm_gzo.png",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "01-01-1992",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০২৫৬৬",
+			"mobile_2": "",
+			"email": "gunabaticpbs2@gmail.com",
+			"section_id": [
+				4,
+				9
+			],
+			"office_id": [
+				10
+			]
+		},
+		{
+			"empId": 20220611032963,
+			"order_no": 14,
+			"name": "অনিক প্রধান",
+			"image": "http://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/anik%20prodhan.jpeg",
+			"designation": "সহকারী জেনারেল ম্যানেজার (মানব সম্পদ)",
+			"gender": "male",
+			"dob": "24-08-1993",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০২৬৬০",
+			"mobile_2": "",
+			"email": "comillapbs2@gmail.com",
+			"section_id": [
+				9,11
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20211030029987,
+			"order_no": 14,
+			"name": "রাহাত মাহমুদ",
+			"image": "http://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1640750601111.jpeg",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "31-01-1995",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩৮১",
+			"mobile_2": "",
+			"email": "bagmara.comillapbs2@gmail.com",
 			"section_id": [
 				4, 9
 			],
@@ -584,91 +691,66 @@
 			]
 		},
 		{
-			"empId": 20180730001162,
-			"order_no": 13,
-			"name": "আসীর ইনন্তেসার",
-			"image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//61b/440/895/61b4408958c32478004866.jpg",
+			"empId": 20211130030168,
+			"order_no": 14,
+			"name": "মোঃ আজহারুল ইসলাম আবির",
+			"image": "http://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1640751060903.png",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "27-10-1995",
+			"dob": "22-06-1995",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩৮৫",
+			"mobile_2": "",
+			"email": "bpara.comillapbs2@gmail.com",
+			"section_id": [
+				4, 9
+			],
+			"office_id": [
+				11
+			]
+		},
+		{
+			"empId": 20191130024704,
+			"order_no": 14,
+			"name": "ফাতহুন কারীব",
+			"image": "",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "08-07-1993",
 			"blood_group": "B+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "01769402598",
+			"mobile_1": "০১৭১৪১০৫৮৮০",
 			"mobile_2": "",
-			"email": "kszo.cpbs2@gmail.com",
+			"email": "bhuschi.comillapbs2@gmail.com",
 			"section_id": [
 				0, 4, 9
 			],
 			"office_id": [
-				10
+				13
 			]
 		},
 		{
-			"empId": 20001137001719,
-			"order_no": 14,
-			"name": "মোঃ হাফিজুর রহমান",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/b8426cb8_01c8_4781_9071_4c77887b2864/a215de18a644a1c935d1a30aca7355c6.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
+			"empId": 20211025029927,
+			"order_no": 9,
+			"name": "মোঃ আবু বকর সিদ্দিক",
+			"image": "http://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1641010186885.png",
+			"designation": "এজিএম(আইটি)/সংযুক্ত: BREB",
 			"gender": "male",
-			"dob": "01-01-1980",
-			"blood_group": "O+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "01769407538",
-			"mobile_2": "",
-			"email": "hszo.cpbs2@gmail.com",
-			"section_id": [
-				0,
-				4,
-				9
-			],
-			"office_id": [
-				9
-			]
-		},
-		{
-			"empId": 20180630001137,
-			"order_no": 14,
-			"name": "রোকসানা আক্তার",
-			"image": "",
-			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
-			"gender": "female",
-			"dob": "09-08-1993",
+			"dob": "28-10-1997",
 			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "01769400332",
+			"mobile_1": "০১৭০৪১০৬৭০৯",
 			"mobile_2": "",
-			"email": "mszo.cpbs2@gmail.com",
+			"email": "comillapbs2@gmail.com",
 			"section_id": [
-				4,
-				9
+				6, 9
 			],
 			"office_id": [
-				8
-			]
-		},
-		{
-			"empId": 20010937001739,
-			"order_no": 14,
-			"name": "মোহাম্মদ নাজির উল্লাহ",
-			"image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//636/a26/fb4/636a26fb4158a956232263.jpeg",
-			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
-			"gender": "male",
-			"dob": "31-12-1976",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "01769400329",
-			"mobile_2": "",
-			"email": "fzo.cpbs2@gmail.com",
-			"section_id": [
-				4,
-				9
-			],
-			"office_id": [
-				6
+				5
 			]
 		},
 		{
