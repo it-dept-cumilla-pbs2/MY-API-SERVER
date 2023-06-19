@@ -268,7 +268,7 @@
 		},
 		{
 			"empId": 19990905000202,
-			"order_no": 2,
+			"order_no": 1,
 			"name": "মোঃ মাহবুব জিয়া",
 			"image": "",
 			"designation": "ডেপুটি জেনারেল ম্যানেজার",
@@ -308,7 +308,7 @@
 		},
 		{
 			"empId": 20040905000302,
-			"order_no": 3,
+			"order_no": 1,
 			"name": "সেলিনা আক্তার",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1657174714586.jpeg",
 			"designation": "ডেপুটি জেনারেল ম্যানেজার",
@@ -329,7 +329,7 @@
 		},
 		{
 			"empId": 20030505000353,
-			"order_no": 4,
+			"order_no": 1,
 			"name": "মোস্তাফিজুর রহমান চৌধুরী",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1648464742127.jpeg",
 			"designation": "ডেপুটি জেনারেল ম্যানেজার",
@@ -350,7 +350,7 @@
 		},
 		{
 			"empId": 19941230000778,
-			"order_no": 4,
+			"order_no": 1,
 			"name": "মোঃ হাফিজুর রহমান",
 			"image": "https://file-chittagong.portal.gov.bd/files/pbs2.comilla.gov.bd/page/5c116060_4876_47dc_9603_fc48aad06686/d981b2d8d663dc3c5867447dbe38c195.jpg",
 			"designation": "ডেপুটি জেনারেল ম্যানেজার",
@@ -371,7 +371,7 @@
 		},
 		{
 			"empId": 19951230000792,
-			"order_no": 4,
+			"order_no": 1,
 			"name": "কাজী হাফিজুল ইসলাম",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/341694734_746055033837078_4580102837303515363_n.jpg",
 			"designation": "ডেপুটি জেনারেল ম্যানেজার",
@@ -392,7 +392,7 @@
 		},
 		{
 			"empId": 20080930000707,
-			"order_no": 4,
+			"order_no": 1,
 			"name": "মোঃ মাসুদুল আলম",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1672200458205.png",
 			"designation": "ডেপুটি জেনারেল ম্যানেজার (সদর-কারিগরী)",
@@ -411,7 +411,7 @@
 		},
 		{
 			"empId": 19850415000519,
-			"order_no": 5,
+			"order_no": 2,
 			"name": "মোঃ গোলজার আনোয়ার হোসেন চৌধুরী",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1640751342953.png",
 			"designation": "সহকারী জেনারেল ম্যানেজার (অর্থ-রাজস্ব)",
@@ -434,7 +434,7 @@
 		},
 		{
 			"empId": 20141215000535,
-			"order_no": 5,
+			"order_no": 2,
 			"name": "মোঃ জসিম উদ্দিন",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1639194057346.png",
 			"designation": "সহকারী জেনারেল ম্যানেজার (অর্থ-হিসাব)",
@@ -457,7 +457,7 @@
 		},
 		{
 			"empId": 20141110000426,
-			"order_no": 6,
+			"order_no": 2,
 			"name": "মোঃ এমায়েত হোসেন",
 			"image": "https://raw.githubusercontent.com/it-dept-cumilla-pbs2/MY-API-SERVER/main/images/agm_ad.png",
 			"designation": "সহকারী জেনারেল ম্যানেজার (প্রশাসন)",
@@ -478,7 +478,7 @@
 		},
 		{
 			"empId": 20140630000900,
-			"order_no": 7,
+			"order_no": 2,
 			"name": "রাজীব চন্দ্র ভৌমিক",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1639194003996.png",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ইএন্ডসি)",
@@ -499,7 +499,7 @@
 		},
 		{
 			"empId": 20160130000977,
-			"order_no": 8,
+			"order_no": 2,
 			"name": "আহম্মদ মশিউল আলম",
 			"image": "https://file-chittagong.portal.gov.bd/files/pbs2.comilla.gov.bd/page/5c116060_4876_47dc_9603_fc48aad06686/fff696bd04268124d0859f9ca016a20d.jpg",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
@@ -522,7 +522,7 @@
 		},
 		{
 			"empId": 20160330001003,
-			"order_no": 9,
+			"order_no": 2,
 			"name": "মোঃ মাহমুদুল হক",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1657173858508.jpeg",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/এমএস-অঃদাঃ)",
@@ -543,7 +543,7 @@
 		},
 		{
 			"empId": 20220125031535,
-			"order_no": 10,
+			"order_no": 3,
 			"name": "মোঃ সাইফুল হক",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/My%20Formal%20passport%20sized%20pic.jpg",
 			"designation": "সহকারী জেনারেল ম্যানেজার (আইটি)",
@@ -564,7 +564,7 @@
 		},
 		{
 			"empId": 19990430001027,
-			"order_no": 12,
+			"order_no": 3,
 			"name": "মোহাম্মদ আবু জাফর",
 			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.comilla.gov.bd/page/5c116060_4876_47dc_9603_fc48aad06686/4df2c64506f14bd0ce3ce23804edd620.jpg",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
@@ -585,7 +585,7 @@
 		},
 		{
 			"empId": 2016030001048,
-			"order_no": 13,
+			"order_no": 3,
 			"name": "মোঃ আবদুল কাদের জিলানী",
 			"image": "https://raw.githubusercontent.com/it-dept-cumilla-pbs2/MY-API-SERVER/main/images/agm_onm_14zo.png",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
@@ -606,7 +606,7 @@
 		},
 		{
 			"empId": 19991030001165,
-			"order_no": 14,
+			"order_no": 3,
 			"name": "মীর আবু জামান",
 			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.comilla.gov.bd/page/5c116060_4876_47dc_9603_fc48aad06686/d6fa053ddeaaa5859e5d05554b566390.jpg",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
@@ -628,7 +628,7 @@
 		},
 		{
 			"empId": 20181030001199,
-			"order_no": 14,
+			"order_no": 3,
 			"name": "মোঃ কাউছার আহাম্মদ",
 			"image": "https://raw.githubusercontent.com/it-dept-cumilla-pbs2/MY-API-SERVER/main/images/agm_onm_gzo.png",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
@@ -650,7 +650,7 @@
 		},
 		{
 			"empId": 20220611032963,
-			"order_no": 14,
+			"order_no": 3,
 			"name": "অনিক প্রধান",
 			"image": "http://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/anik%20prodhan.jpeg",
 			"designation": "সহকারী জেনারেল ম্যানেজার (মানব সম্পদ)",
@@ -671,7 +671,7 @@
 		},
 		{
 			"empId": 20211030029987,
-			"order_no": 14,
+			"order_no": 3,
 			"name": "রাহাত মাহমুদ",
 			"image": "http://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1640750601111.jpeg",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
@@ -692,7 +692,7 @@
 		},
 		{
 			"empId": 20211130030168,
-			"order_no": 14,
+			"order_no": 3,
 			"name": "মোঃ আজহারুল ইসলাম আবির",
 			"image": "http://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1640751060903.png",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
@@ -713,7 +713,7 @@
 		},
 		{
 			"empId": 20191130024704,
-			"order_no": 14,
+			"order_no": 3,
 			"name": "ফাতহুন কারীব",
 			"image": "",
 			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
@@ -734,7 +734,7 @@
 		},
 		{
 			"empId": 20211025029927,
-			"order_no": 9,
+			"order_no": 3,
 			"name": "মোঃ আবু বকর সিদ্দিক",
 			"image": "http://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1641010186885.png",
 			"designation": "এজিএম(আইটি)/সংযুক্ত: BREB",
@@ -754,61 +754,81 @@
 			]
 		},
 		{
-			"empId": 19950639002632,
-			"order_no": 15,
-			"name": "দীপক চক্রবর্তী",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/34f4b8e0_2b7f_4cd9_8a25_286cc558abb3/693f18bf7dea3c095968326c5789e513.png",
-			"designation": "প্লান্ট হিসাবরক্ষক",
+			"empId": 19990835001364,
+			"order_no": 5,
+			"name": "মোঃ আইয়ুব আলী শিকদার",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//61c/c04/aa5/61cc04aa58056839961366.jpg",
+			"designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
 			"gender": "male",
-			"dob": "11-04-1968",
-			"blood_group": "AB+",
+			"dob": "30-06-1970",
+			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01918881015",
+			"mobile_1": "01813313334",
 			"mobile_2": "",
-			"email": "dipakchakrabarty@yahoo.com",
+			"email": "gunabaticpbs2@gmail.com",
 			"section_id": [
-				1,
-				7,
+				3,
 				10
 			],
 			"office_id": [
-				5
+				10
 			]
 		},
 		{
-			"empId": 20101037002180,
-			"order_no": 16,
-			"name": "মোহাম্মদ মাসুদুর রহমান",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/5e9458f5_da16_4ff5_81dc_8ba1e10e86d9/657fa79a96b27ff5b276ad91fb2b0fa8.png",
-			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"empId": 20040435001457,
+			"order_no": 5,
+			"name": "মোঃ মামুনুর রশীদ",
+			"image": "",
+			"designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
 			"gender": "male",
-			"dob": "01-01-1981",
+			"dob": "15-02-1981",
 			"blood_group": "O+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01722248779",
+			"mobile_1": "01737193779",
 			"mobile_2": "",
-			"email": "",
+			"email": "comillapbs2@gmail.com",
 			"section_id": [
-				5, 10
+				10,11
 			],
 			"office_id": [
 				5
 			]
 		},
 		{
-			"empId": 20040935001261,
-			"order_no": 17,
-			"name": "ছোট রাম সাহা",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/29423e92_4152_468f_851b_374fca95a098/86c00d4d80e739edd34c7f8d20197128.png",
+			"empId": 20140236001497,
+			"order_no": 5,
+			"name": "খোকন চন্দ্র বর্মন",
+			"image": "",
 			"designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
 			"gender": "male",
-			"dob": "31-08-1980",
-			"blood_group": "B+",
+			"dob": "31-12-1984",
+			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01716705478",
+			"mobile_1": "০১৭৫০২৪২৬৩৩",
+			"mobile_2": "",
+			"email": "comillapbs2@gmail.com",
+			"section_id": [
+				3,10
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20170436001563,
+			"order_no": 5,
+			"name": "মোঃ রাকিবুল ইসলাম",
+			"image": "",
+			"designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
+			"gender": "male",
+			"dob": "05-06-1991",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "০১৭৪৫৩০৬৮৬৯",
 			"mobile_2": "",
 			"email": "",
 			"section_id": [
@@ -819,24 +839,45 @@
 			]
 		},
 		{
-			"empId": 20140536001517,
-			"order_no": 18,
-			"name": "মোঃ আসাদুজ্জামান",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/9c96672e_b254_46d8_ac0b_2882e14bec48/2b214d21186fc1fc20265e12aaa86a41.png",
+			"empId": 20171036001607,
+			"order_no": 5,
+			"name": "আবু সুফিয়ান",
+			"image": "",
 			"designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
 			"gender": "male",
-			"dob": "17-12-1984",
+			"dob": "11-08-1988",
 			"blood_group": "B+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01911616575",
+			"mobile_1": "01710583754",
 			"mobile_2": "",
 			"email": "",
 			"section_id": [
 				3, 10
 			],
 			"office_id": [
-				5
+				6
+			]
+		},
+		{
+			"empId": 20171036001609,
+			"order_no": 5,
+			"name": "সাইয়েদ মুসতাইন বিল্লাহ",
+			"image": "",
+			"designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
+			"gender": "male",
+			"dob": "01-02-1988",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01717812606",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				3, 10
+			],
+			"office_id": [
+				12
 			]
 		},
 		{
