@@ -902,40 +902,19 @@
 			]
 		},
 		{
-			"empId": 19880238002422,
+			"empId": 20030737001834,
 			"order_no": 5,
-			"name": "মোঃ হাবিবুর রহমান",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/ef3410d2_dbee_4922_b358_8d02047b8255/e3129ac8e1377826648d14cd0a9036b0.png",
+			"name": "মোঃ শাহাদাত হোসেন",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//61c/d66/ae1/61cd66ae110a3691390826.jpg",
 			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "23-01-1969",
+			"dob": "01-01-1977",
 			"blood_group": "O+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01718941710",
+			"mobile_1": "01715438911",
 			"mobile_2": "",
-			"email": "",
-			"section_id": [
-				4, 10
-			],
-			"office_id": [
-				10
-			]
-		},
-		{
-			"empId": 19940538002591,
-			"order_no": 21,
-			"name": "মোঃ এনায়েত হোসেন",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/240b16ab_66b4_4d36_9463_4434916e2ebf/f8beebf74ec0378af31bf4f363977c65.png",
-			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
-			"gender": "male",
-			"dob": "10-05-1973",
-			"blood_group": "O+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01716244581",
-			"mobile_2": "",
-			"email": "",
+			"email": "sh912719@gmail.com",
 			"section_id": [
 				4, 10
 			],
@@ -944,17 +923,59 @@
 			]
 		},
 		{
-			"empId": 19960354004818,
-			"order_no": 22,
-			"name": "মোহাম্মদ মোশাররফ হোসেন",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/ca2dcc56_5f90_4bae_a978_fcf0fb5b7aa4/2f4ce83d60d25226ec61e5b7159dcaef.png",
-			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"empId": 20040237001847,
+			"order_no": 5,
+			"name": "মোহাম্মদ সোহরাওয়ার্দী",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "31-12-1978",
+			"dob": "04-11-1982",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01711326253",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				4, 10
+			],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 20030737001862,
+			"order_no": 5,
+			"name": "মোহাম্মদ হুমায়ুন কবির",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "06-09-1979",
 			"blood_group": "B+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01818645525",
+			"mobile_1": "01711387681",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				4, 10
+			],
+			"office_id": [
+				9
+			]
+		},
+		{
+			"empId": 20101037002117,
+			"order_no": 5,
+			"name": "আব্দুল্লাহ আস সাইম",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "29-07-1983",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01710350670",
 			"mobile_2": "",
 			"email": "",
 			"section_id": [
@@ -965,80 +986,208 @@
 			]
 		},
 		{
-			"empId": 19921145003340,
-			"order_no": 29,
-			"name": "আব্দুল মাজেদ",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/4396acb2_d059_42a7_ab14_2ffcfe89678e/10a54a3f9af96953edbdff4e0d08a355.png",
-			"designation": "মিটার টেষ্টিং সুপারভাইজার",
+			"empId": 20110137002125,
+			"order_no": 5,
+			"name": "মোঃ আজহারুল ইসলাম",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "23-08-1969",
+			"dob": "01-07-1982",
+			"blood_group": "B-",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01715520074",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [5,10],
+			"office_id": [5]
+		},
+		{
+			"empId": 20100737002184,
+			"order_no": 5,
+			"name": "তাওহিদুল আমিন",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//61c/bf8/0e8/61cbf80e8d777908755375.jpeg",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "24-02-1984",
 			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01712557476",
+			"mobile_1": "01718050004",
 			"mobile_2": "",
-			"email": "",
-			"section_id": [
-				4, 10
-			],
-			"office_id": [
-				6
-			]
+			"email": "jewel843051@gmail.com",
+			"section_id": [5,10],
+			"office_id": [5]
 		},
 		{
-			"empId": 20170442002862,
-			"order_no": 24,
-			"name": "মিল্টন নাইডু",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/501c3d2a_183a_428e_868f_77fc923a3c78/19bb04a40c0297ddb15fb4f4643fc8cd.png",
-			"designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
+			"empId": 20130838002333,
+			"order_no": 5,
+			"name": "সনদ চন্দ্র দাস",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "female",
+			"dob": "18-09-1984",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01703816141",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [4,10],
+			"office_id": [6]
+		},
+		{
+			"empId": 19861038002464,
+			"order_no": 5,
+			"name": "বিষ্ণুপদ রায়",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "11-10-1986",
+			"dob": "20-06-1967",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01708075400",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [4,10],
+			"office_id": [6]
+		},
+		{
+			"empId": 19910238002571,
+			"order_no": 5,
+			"name": "মোঃ মনিরুজ্জামান",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "30-06-1972",
 			"blood_group": "O+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "০১৬৭৫২৫৪২২৮",
+			"mobile_1": "01943920791",
 			"mobile_2": "",
-			"email": "milton.cse18@gmail.com",
-			"section_id": [
-				6, 10
-			],
-			"office_id": [
-				5
-			]
+			"email": "",
+			"section_id": [4,10],
+			"office_id": [5]
 		},
 		{
-			"empId": 20191142024692,
-			"order_no": 25,
-			"name": "শিরিনা আক্তার",
-			"image": "",
-			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (আইটি)",
-			"gender": "female",
-			"dob": "21-05-1997",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01943929782",
-			"mobile_2": "",
-			"email": "shirinaakterrotna@gmail.com",
-			"section_id": [
-				6, 10
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
-			"empId": 20200138025252,
-			"order_no": 26,
-			"name": "রেজাউল করিম",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/ba178d97_5b89_4260_a7c6_a909e3736209/5248c3008751b9adc6200b61c7ecc13a.png",
+			"empId": 19950838002576,
+			"order_no": 6,
+			"name": "প্রদীপ কুমার দেবনাথ",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//61c/c01/681/61cc016811e2b207608317.jpg",
 			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "11-01-1996",
+			"dob": "01-02-19767",
 			"blood_group": "O+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01740163479",
+			"mobile_1": "01715682731",
+			"mobile_2": "",
+			"email": "pkdpbs@gmail.com",
+			"section_id": [4,10],
+			"office_id": [11]
+		},
+		{
+			"empId": 20100941002809,
+			"order_no": 5,
+			"name": "মোঃ মহিউদ্দিন মজুমদার",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
+			"gender": "male",
+			"dob": "25-11-1981",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01717740851",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [6,10],
+			"office_id": [5]
+		},
+		{
+			"empId": 20100941002826,
+			"order_no": 5,
+			"name": "আশ্রাফুল আলম",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
+			"gender": "male",
+			"dob": "05-10-1988",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01710430878",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [6,10],
+			"office_id": [5]
+		},
+		{
+			"empId": 20171142002898,
+			"order_no": 5,
+			"name": "সোহাগ মিয়া",
+			"image": "",
+			"designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
+			"gender": "male",
+			"dob": "02-08-1989",
+			"blood_group": "A-",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01783002875",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [6,10],
+			"office_id": [5]
+		},
+		{
+			"empId": 19930154005072,
+			"order_no": 6,
+			"name": "মোঃ মামুনুর রশিদ",
+			"image": "",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "01-02-1976",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01914641230",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [4,10],
+			"office_id": [11]
+		},
+		{
+			"empId": 19910354005516,
+			"order_no": 6,
+			"name": "মোঃ মানিক মিয়া",
+			"image": "",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "17-06-1970",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01788780711",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				4, 10
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 19970354005530,
+			"order_no": 6,
+			"name": "মোঃ নুরুল ইসলাম",
+			"image": "",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "5-01-1975",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01739811458",
 			"mobile_2": "",
 			"email": "",
 			"section_id": [
@@ -1049,40 +1198,19 @@
 			]
 		},
 		{
-			"empId": 20210638029365,
-			"order_no": 27,
-			"name": "মানস চৌধুরী বাবু",
-			"image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//621/213/a2e/621213a2e090d336585600.jpg",
-			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)- সদর দপ্তর",
-			"gender": "male",
-			"dob": "11-01-1996",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01840282623",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [
-				5, 10
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
-			"empId": 19870938002424,
-			"order_no": 30,
-			"name": "প্রানতোষ চন্দ্র পাল",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/0843edf0_e00c_473d_a572_4f6d61fc8887/a9b42cdce382fa21335a033e67fc9dea.png",
+			"empId": 19910954005681,
+			"order_no": 6,
+			"name": "মোঃ শাহ আলম",
+			"image": "",
 			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "14-08-1967",
-			"blood_group": "A+",
+			"dob": "06-04-1973",
+			"blood_group": "AB+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01718630023",
+			"mobile_1": "01711306025",
 			"mobile_2": "",
-			"email": "fzo.cpbs2@gmail.com",
+			"email": "",
 			"section_id": [
 				4, 10
 			],
@@ -1091,108 +1219,24 @@
 			]
 		},
 		{
-			"empId": 19970454005901,
-			"order_no": 31,
-			"name": "সনত কুমার তরফদার",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/7e584e61_06b5_49f5_8da7_eb9a58cdbd19/79e04d61f0c22dc649d1b286b03473d3.png",
-			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
-			"gender": "male",
-			"dob": "02-01-1978",
-			"blood_group": "O+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01716471802",
-			"mobile_2": "",
-			"email": "hszo.cpbs2@gmail.com",
-			"section_id": [
-				4, 10
-			],
-			"office_id": [
-				9
-			]
-		},
-		{
-			"empId": 20220236032538,
-			"order_no": 32,
-			"name": "অনিক কুমার রায়",
-			"image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//622/9a3/da2/6229a3da240bc764028441.jpg",
-			"designation": "সহকারী এনফোর্সমেন্ট কো-অর্ডিনেটর",
-			"gender": "male",
-			"dob": "07-07-1994",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01681594899",
-			"mobile_2": "",
-			"email": "anikray49@gmail.com",
-			"section_id": [
-				3, 10
-			],
-			"office_id": [
-				6
-			]
-		},
-		{
-			"empId": 20200138025253,
-			"order_no": 33,
-			"name": "রাকিব হোসেন",
+			"empId": 19910754005854,
+			"order_no": 6,
+			"name": "মোঃ গোলাম রব্বানী",
 			"image": "",
 			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
-			"dob": "13-05-1997",
+			"dob": "01-01-1975",
 			"blood_group": "O+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01626054428",
+			"mobile_1": "01718646899",
 			"mobile_2": "",
-			"email": "",
+			"email": "comdept.cpbs2@gmail.com",
 			"section_id": [
 				4, 10
 			],
 			"office_id": [
 				5
-			]
-		},
-		{
-			"empId": 20210638029380,
-			"order_no": 34,
-			"name": "শাহ আলম",
-			"image": "",
-			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
-			"gender": "male",
-			"dob": "13-04-1998",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01788584897",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [
-				4, 10
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
-			"empId": 20210638029362,
-			"order_no": 35,
-			"name": "মোঃ সাজ্জাদ হোসেন",
-			"image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//62c/e9d/ac1/62ce9dac15357011943989.jpeg",
-			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
-			"gender": "male",
-			"dob": "15-07-1994",
-			"blood_group": "O+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01518421073",
-			"mobile_2": "",
-			"email": "mdsazzad01814@gmail.com",
-			"section_id": [
-				4, 10
-			],
-			"office_id": [
-				8
 			]
 		},
 		{
