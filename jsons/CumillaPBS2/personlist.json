@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.05,
+	"version": 1.06,
 	"person_list": [
         {
 			"empId": 202223000001,
@@ -1029,23 +1029,6 @@
 			"office_id": [11]
 		},
 		{
-			"empId": 20100941002809,
-			"order_no": 5,
-			"name": "মোঃ মহিউদ্দিন মজুমদার",
-			"image": "",
-			"designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
-			"gender": "male",
-			"dob": "25-11-1981",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01717740851",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [6,10],
-			"office_id": [5]
-		},
-		{
 			"empId": 20100941002826,
 			"order_no": 5,
 			"name": "আশ্রাফুল আলম",
@@ -1181,24 +1164,339 @@
 			]
 		},
 		{
-			"empId": 19860444003026,
-			"order_no": 36,
-			"name": "ফেরদৌসী বেগম",
+			"empId": 19941263006354,
+			"order_no": 6,
+			"name": "কে. এম. হানিফুজ্জামান",
 			"image": "",
-			"designation": "বিলিং সুপারভাইজার (BS)",
-			"gender": "female",
-			"dob": "20-12-1963",
-			"blood_group": "O+",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "19-10-1978",
+			"blood_group": "B+",
 			"emp_type": "R",
-			"view_type": 3,
-			"mobile_1": "01812514028",
+			"view_type": 2,
+			"mobile_1": "01718352180",
 			"mobile_2": "",
 			"email": "",
 			"section_id": [
-				1, 8, 10
+				4, 10
+			],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 20200138025131,
+			"order_no": 6,
+			"name": "মোঃ জুবায়ের মাহমুদ খান",
+			"image": "",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "31-05-1998",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01979980101",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				5, 10
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20210238026574,
+			"order_no": 6,
+			"name": "হোসাইন আহমদ",
+			"image": "",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "14-06-1996",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01755948369",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				4, 10
+			],
+			"office_id": [
+				7
+			]
+		},
+		{
+			"empId": 20211138030034,
+			"order_no": 6,
+			"name": "মোঃ মাহবুব মুন্সী",
+			"image": "",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "05-01-1997",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01620539487",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				4, 10
+			],
+			"office_id": [
+				8
+			]
+		},
+		{
+			"empId": 20211138030035,
+			"order_no": 6,
+			"name": "মোঃ জাকির হোসেন",
+			"image": "",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "03-06-1991",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01767717041",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				4, 10
 			],
 			"office_id": [
 				10
+			]
+		},
+		{
+			"empId": 20211138030036,
+			"order_no": 6,
+			"name": "ইসমাইল হোসেন",
+			"image": "",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "20-01-1996",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01742440903",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				4, 10
+			],
+			"office_id": [
+				9
+			]
+		},
+		{
+			"empId": 20211138030137,
+			"order_no": 6,
+			"name": "গৌরাঙ্গ চন্দ্র দেবনাথ",
+			"image": "",
+			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "30-12-1995",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01738884009",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				4, 10
+			],
+			"office_id": [
+				6
+			]
+		},
+        {
+			"empId": 20000555003945,
+			"order_no": 5,
+			"name": "চিত্ত রঞ্জন সাহা",
+			"image": "",
+			"designation": "প্ল্যান্ট হিসাব রক্ষক",
+			"gender": "male",
+			"dob": "15-07-1970",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01712972453",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				1, 7, 10
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20020939022099,
+			"order_no": 5,
+			"name": "মোঃ ফজলুল হক",
+			"image": "",
+			"designation": "হিসাব রক্ষক",
+			"gender": "male",
+			"dob": "31-12-1972",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01729465440",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				1, 7, 10
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20070455003754,
+			"order_no": 6,
+			"name": "বেলাল আহমেদ",
+			"image": "",
+			"designation": "সহকারী হিসাব রক্ষক",
+			"gender": "male",
+			"dob": "05-10-1980",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01911819088",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				1, 7, 10
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20070455003758,
+			"order_no": 6,
+			"name": "মোঃ আতিকুল ইসলাম",
+			"image": "",
+			"designation": "সহকারী হিসাব রক্ষক",
+			"gender": "male",
+			"dob": "21-10-1981",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01710425970",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				1, 7, 10
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20091155003753,
+			"order_no": 6,
+			"name": "মোঃ মোস্তফা কামাল",
+			"image": "",
+			"designation": "সহকারী প্ল্যান্ট হিসাব রক্ষক",
+			"gender": "male",
+			"dob": "28-05-1981",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01818958868",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				1, 7, 10
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20120155003802,
+			"order_no": 6,
+			"name": "লিটন মিয়া",
+			"image": "",
+			"designation": "সহকারী হিসাব রক্ষক",
+			"gender": "male",
+			"dob": "30-07-1982",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01920332200",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				1, 7, 10
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 20191236024859,
+			"order_no": 6,
+			"name": "মোঃ আব্দুল জলিল",
+			"image": "",
+			"designation": "সহকারী এনফোর্সমেন্ট কো-অর্ডিনেটর",
+			"gender": "male",
+			"dob": "27-05-1992",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01811118529",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				3, 10
+			],
+			"office_id": [
+				8
+			]
+		},
+		{
+			"empId": 20220236032512,
+			"order_no": 6,
+			"name": "মোঃ শফিকুল ইসলাম",
+			"image": "",
+			"designation": "সহকারী এনফোর্সমেন্ট কো-অর্ডিনেটর",
+			"gender": "male",
+			"dob": "30-12-1994",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01729567020",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				3, 10
+			],
+			"office_id": [
+				11
+			]
+		},
+		{
+			"empId": 20220636032961,
+			"order_no": 6,
+			"name": "শফিকুল ইসলাম",
+			"image": "",
+			"designation": "সহকারী এনফোর্সমেন্ট কো-অর্ডিনেটর",
+			"gender": "male",
+			"dob": "13-08-1993",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 2,
+			"mobile_1": "01821312294",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [
+				3, 10
+			],
+			"office_id": [
+				13
 			]
 		},
 		{
