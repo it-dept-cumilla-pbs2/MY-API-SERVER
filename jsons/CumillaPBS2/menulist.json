@@ -1,5 +1,5 @@
 {
-	"version": 1.06,
+	"version": 1.07,
     "home_notification": [
         {
             "type": "popup",
@@ -90,7 +90,7 @@
 			"id": 5,
 			"title": "সদর দপ্তর",
 			"icon": "https://raw.githubusercontent.com/it-dept-cumilla-pbs2/MY-API-SERVER/main/images/icons/icon5.png",
-			"sub_menu": [0, 1, 28, 3, 2, 6,70],
+			"sub_menu": [0, 1, 28, 3, 2, 6,11,70],
 			"sub_menu_1": [0, 9, 10],
 			"details_link": "",
             "link_type": ""
