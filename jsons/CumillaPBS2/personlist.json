@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.07,
+	"version": 1.08,
 	"person_list": [
         {
 			"empId": 202223000001,
@@ -466,18 +466,16 @@
 			"order_no": 2,
 			"name": "মোঃ মাহমুদুল হক",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1657173858508.jpeg",
-			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/এমএস-অঃদাঃ)",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
 			"gender": "male",
 			"dob": "10-11-1992",
 			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 1,
 			"mobile_1": "০১৭৬৯৪০০৩৮০",
-			"mobile_2": "০১৭৬৯৪০০৩৭৬",
+			"mobile_2": "",
 			"email": "comdept.cpbs2@gmail.com",
-			"section_id": [
-				2, 4, 9
-			],
+			"section_id": [4,9],
 			"office_id": [
 				5
 			]
@@ -502,6 +500,23 @@
 			"office_id": [
 				5
 			]
+		},
+		{
+			"empId": 20180420000684,
+			"order_no": 3,
+			"name": "মোঃ আকরাম হোসেন খান",
+			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/WhatsApp%20Image%202023-09-02%20at%2012.02.30%20PM.jpeg",
+			"designation": "সহকারী জেনারেল ম্যানেজার (এমএস)",
+			"gender": "male",
+			"dob": "10-09-1994",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩৭৬",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [2,9],
+			"office_id": [5]
 		},
 		{
 			"empId": 19990430001027,
@@ -1185,27 +1200,6 @@
 			]
 		},
 		{
-			"empId": 20200138025131,
-			"order_no": 6,
-			"name": "মোঃ জুবায়ের মাহমুদ খান",
-			"image": "",
-			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
-			"gender": "male",
-			"dob": "31-05-1998",
-			"blood_group": "O+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01979980101",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [
-				5, 10
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
 			"empId": 20210238026574,
 			"order_no": 6,
 			"name": "হোসাইন আহমদ",
@@ -1282,12 +1276,8 @@
 			"mobile_1": "01742440903",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [
-				4, 10
-			],
-			"office_id": [
-				9
-			]
+			"section_id": [5, 10],
+			"office_id": [5]
 		},
 		{
 			"empId": 20211138030137,
