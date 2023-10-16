@@ -1,5 +1,5 @@
 {
-	"version": 1.08,
+	"version": 1.09,
     "home_notification": [
         {
             "type": "popup",
@@ -424,7 +424,7 @@
 			"id": 13,
 			"parent_id": "",
 			"has_child": false,
-			"title": "বাগানবাড়ী অভিযোগ কেন্দ্র",
+			"title": "কালিরবাজার অভিযোগ কেন্দ্র",
 			"link": null, 
             "link_type": 0
 		},
