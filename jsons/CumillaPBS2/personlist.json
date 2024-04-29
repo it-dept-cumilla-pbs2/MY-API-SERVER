@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.09,
+	"version": 1.10,
 	"person_list": [
         {
 			"empId": 202223000001,
@@ -397,38 +397,17 @@
 			]
 		},
 		{
-			"empId": 20141110000426,
-			"trg_id": 100000,"order_no": 2,
-			"name": "মোঃ এমায়েত হোসেন",
-			"image": "https://raw.githubusercontent.com/it-dept-cumilla-pbs2/MY-API-SERVER/main/images/agm_ad.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (প্রশাসন)",
-			"gender": "male",
-			"dob": "01-03-1983",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "০১৭৬৯৪০০৩৭৫",
-			"mobile_2": "",
-			"email": "comillapbs2@gmail.com",
-			"section_id": [
-				3, 9
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
 			"empId": 20140630000900,
 			"trg_id": 100000,"order_no": 2,
 			"name": "রাজীব চন্দ্র ভৌমিক",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1639194003996.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (ইএন্ডসি)",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
 			"gender": "male",
 			"dob": "01-06-1988",
 			"blood_group": "O+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "০১৭৬৯৪০০৩৭৯",
+			"mobile_1": "০১৭৬৯৪০০৩৮০",
 			"mobile_2": "",
 			"email": "comdept.cpbs2@gmail.com",
 			"section_id": [
@@ -450,7 +429,7 @@
 			"emp_type": "R",
 			"view_type": 1,
 			"mobile_1": "০১৭৬৯৪০২৫৬৭",
-			"mobile_2": "",
+			"mobile_2": "০১৭৬৯৪০২৫৬৬",
 			"email": "miyabazarszo@gmail.com",
 			"section_id": [
 				0,
@@ -458,7 +437,7 @@
 				9
 			],
 			"office_id": [
-				12
+				12,10
 			]
 		},
 		{
@@ -466,13 +445,13 @@
 			"trg_id": 100000,"order_no": 2,
 			"name": "মোঃ মাহমুদুল হক",
 			"image": "https://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/1657173858508.jpeg",
-			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ইএন্ডসি)",
 			"gender": "male",
 			"dob": "10-11-1992",
 			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "০১৭৬৯৪০০৩৮০",
+			"mobile_1": "০১৭৬৯৪০০৩৭৯",
 			"mobile_2": "",
 			"email": "comdept.cpbs2@gmail.com",
 			"section_id": [4,9],
@@ -583,43 +562,21 @@
 			]
 		},
 		{
-			"empId": 20181030001199,
-			"trg_id": 100000,"order_no": 3,
-			"name": "মোঃ কাউছার আহাম্মদ",
-			"image": "https://raw.githubusercontent.com/it-dept-cumilla-pbs2/MY-API-SERVER/main/images/agm_onm_gzo.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
-			"gender": "male",
-			"dob": "01-01-1992",
-			"blood_group": "O+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "০১৭৬৯৪০২৫৬৬",
-			"mobile_2": "",
-			"email": "gunabaticpbs2@gmail.com",
-			"section_id": [
-				4,
-				9
-			],
-			"office_id": [
-				10
-			]
-		},
-		{
 			"empId": 20220611032963,
-			"trg_id": 100000,"order_no": 3,
+			"trg_id": 100000,"order_no": 2,
 			"name": "অনিক প্রধান",
 			"image": "http://file-chittagong.portal.gov.bd/media/3b9743e8-e0c6-4ee0-a518-921c8bd497d2/uploaded-files/anik%20prodhan.jpeg",
-			"designation": "সহকারী জেনারেল ম্যানেজার (মানব সম্পদ)",
+			"designation": "সহকারী জেনারেল ম্যানেজার (মানব সম্পদ)/প্রশাসন (অঃদাঃ)",
 			"gender": "male",
 			"dob": "24-08-1993",
 			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 1,
 			"mobile_1": "০১৭৬৯৪০২৬৬০",
-			"mobile_2": "",
+			"mobile_2": "০১৭৬৯৪০০৩৭৫",
 			"email": "comillapbs2@gmail.com",
 			"section_id": [
-				9,11
+				3,9,11
 			],
 			"office_id": [
 				5
@@ -735,7 +692,7 @@
 			"empId": 20040435001457,
 			"trg_id": 100000,"order_no": 5,
 			"name": "মোঃ মামুনুর রশীদ",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//660/c3b/1d7/660c3b1d7f5c9938010777.jpg",
 			"designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
 			"gender": "male",
 			"dob": "15-02-1981",
@@ -756,7 +713,7 @@
 			"empId": 20140236001497,
 			"trg_id": 100000,"order_no": 5,
 			"name": "খোকন চন্দ্র বর্মন",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//660/c4a/28a/660c4a28a7a45037860487.jpg",
 			"designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
 			"gender": "male",
 			"dob": "31-12-1984",
@@ -777,7 +734,7 @@
 			"empId": 20170436001563,
 			"trg_id": 100000,"order_no": 5,
 			"name": "মোঃ রাকিবুল ইসলাম",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//662/f29/d2a/662f29d2a85b2785439941.jpg",
 			"designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
 			"gender": "male",
 			"dob": "05-06-1991",
@@ -935,7 +892,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [
-				4, 10
+				5, 10
 			],
 			"office_id": [
 				5
@@ -972,14 +929,14 @@
 			"mobile_1": "01718050004",
 			"mobile_2": "",
 			"email": "jewel843051@gmail.com",
-			"section_id": [5,10],
+			"section_id": [4,10],
 			"office_id": [5]
 		},
 		{
 			"empId": 20130838002333,
 			"trg_id": 100000,"order_no": 5,
 			"name": "সনদ চন্দ্র দাস",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//660/c44/887/660c448873f7c567932208.jpg",
 			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
 			"dob": "18-09-1984",
@@ -996,7 +953,7 @@
 			"empId": 19861038002464,
 			"trg_id": 100000,"order_no": 5,
 			"name": "বিষ্ণুপদ রায়",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//660/c43/835/660c43835be57544399877.jpg",
 			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
 			"dob": "20-06-1967",
@@ -1013,7 +970,7 @@
 			"empId": 19910238002571,
 			"trg_id": 100000,"order_no": 5,
 			"name": "মোঃ মনিরুজ্জামান",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//662/f1c/eae/662f1ceaeff63329715332.jpg",
 			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
 			"dob": "30-06-1972",
@@ -1047,14 +1004,14 @@
 			"empId": 20100941002826,
 			"trg_id": 100000,"order_no": 5,
 			"name": "আশ্রাফুল আলম",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//660/c36/311/660c363116f57972313893.jpg",
 			"designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
 			"gender": "male",
 			"dob": "25-07-1981",
 			"blood_group": "O+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01701439978",
+			"mobile_1": "01710430878",
 			"mobile_2": "",
 			"email": "",
 			"section_id": [6,10],
@@ -1064,14 +1021,14 @@
 			"empId": 20171142002898,
 			"trg_id": 100000,"order_no": 5,
 			"name": "সোহাগ মিয়া",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//660/c36/e58/660c36e582d19758773267.jpg",
 			"designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
 			"gender": "male",
 			"dob": "01-07-1990",
 			"blood_group": "A-",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01783012875",
+			"mobile_1": "01783002875",
 			"mobile_2": "",
 			"email": "",
 			"section_id": [6,10],
@@ -1081,7 +1038,7 @@
 			"empId": 19930154005072,
 			"trg_id": 100000,"order_no": 6,
 			"name": "মোঃ মামুনুর রশিদ",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//662/f1f/4a4/662f1f4a4be47480725348.jpg",
 			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
 			"dob": "01-02-1976",
@@ -1098,7 +1055,7 @@
 			"empId": 19910354005516,
 			"trg_id": 100000,"order_no": 6,
 			"name": "মোঃ মানিক মিয়া",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/3b9743e8-e0c6-4ee0-a518-921c8bd497d2//662/f25/1e4/662f251e4d66f427445243.png",
 			"designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
 			"gender": "male",
 			"dob": "17-06-1970",
