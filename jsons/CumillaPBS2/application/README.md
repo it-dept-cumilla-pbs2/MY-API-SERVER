@@ -39,7 +39,7 @@
 **Md. Saiful Haque**<br>
 **AGM IT**<br>
 **Comilla Palli Bidyut Samity-2**<br>
-**Email:** <br>md.saifulhq@gmail.com
+**Email:** md.saifulhq@gmail.com
 
 ### Download
-<a href="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/raw/main/jsons/CumillaPBS2/application/Cumilla_PBS-2_app.apk">
+<a href="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/raw/main/jsons/CumillaPBS2/application/Cumilla_PBS-2_app.apk"><img src="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/blob/main/images/download_app.png?raw=true" width="222"></a>
