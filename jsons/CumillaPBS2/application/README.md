@@ -1,4 +1,4 @@
-<img src="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/blob/main/images/screenshots/logo.png?raw=true" width="60" height="60">
+<img src="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/blob/main/images/screenshots/logo.png?raw=true" width="60" height="70">
 
 # কুমিল্লা পল্লী বিদ্যুৎ সমিতি-২ Mobile Application
 
@@ -6,46 +6,28 @@
 
 ### App Features
 * সকল কর্মকর্তা-কর্মচারীর দরকারী সকল তথ্য (Contact number, Email address, Blood group etc.)
-* কর্মকর্তা-কর্মচারী সহজে খূঁজে বের করার সুবিধা
-* Data can be viewed in both offline and online mode
-* Contacts can be added to Favorites
-* Direct call, message and email facitilies
-* Same message can be send to all contacts
-* Birthday's notifications avialable
-* Json link change option
-* App theme can be changed
-* Contacts sharing and coping option added
+* কর্মকর্তা-কর্মচারী সহজে খুঁজে বের করার সুবিধা
+* ইন্টারনেট ছাড়া অ্যাপস অপারেট করার সুবিধা
+* বিভিন্ন Complain Center এর Number সহজে খুঁজে পাওয়া যায়
+* সরাসরি অ্যাপ থেকে কল ও মেসেজ করার সুবিধা
+* জন্মদিন এর Notification
+* ডে এবং নাইট থিম সুবিধা
+* সরাসরি অভিযোগ দখিল করার সুবিধা
 
 ### Screenshots
 <p align="center">
-<img src="https://github.com/shhridoy/CSTE10NSTU_Directory/blob/master/ScreenShots/Screenshot_2018-03-09-00-53-42-899_com.cste10nstu.shhridoy.cste10nstu.png?raw=true" width="222">
-<img src="https://github.com/shhridoy/CSTE10NSTU_Directory/blob/master/ScreenShots/Screenshot_2018-03-09-00-54-33-595_com.cste10nstu.shhridoy.cste10nstu.png?raw=true" width="222">
-<img src="https://github.com/shhridoy/CSTE10NSTU_Directory/blob/master/ScreenShots/Screenshot_2018-03-09-00-55-33-332_com.cste10nstu.shhridoy.cste10nstu.png?raw=true" width="222">
-<img src="https://github.com/shhridoy/CSTE10NSTU_Directory/blob/master/ScreenShots/Screenshot_2018-03-09-00-54-50-663_com.cste10nstu.shhridoy.cste10nstu.png?raw=true" width="222">
-<img src="https://github.com/shhridoy/CSTE10NSTU_Directory/blob/master/ScreenShots/Screenshot_2018-03-09-00-55-41-541_com.cste10nstu.shhridoy.cste10nstu.png?raw=true" width="222">
-<img src="https://github.com/shhridoy/CSTE10NSTU_Directory/blob/master/ScreenShots/Screenshot_2018-03-09-00-56-19-731_com.cste10nstu.shhridoy.cste10nstu.png?raw=true" width="222">
-<img src="https://github.com/shhridoy/CSTE10NSTU_Directory/blob/master/ScreenShots/Screenshot_2018-03-09-00-56-35-857_com.cste10nstu.shhridoy.cste10nstu.png?raw=true" width="222">
+<img src="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/blob/main/images/screenshots/ss1.jpg?raw=true" width="222">
+<img src="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/blob/main/images/screenshots/ss2.jpg?raw=true" width="222">
+<img src="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/blob/main/images/screenshots/ss3.jpg?raw=true" width="222">
+<img src="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/blob/main/images/screenshots/ss4.jpg?raw=true" width="222">
 </p>
 
-### Description
-In this app, there are three tabs one holds all contacts, one holds favorite contacts from which user can add and remove as their wish and the last one holds birthday's list.
-
-In order to add contacts in favorites, the user needs to click and hold the contacts for a couple of seconds. Then a context menu will appear and they can see the option to add in favorite. Though there is another option to add contacts in favorite.
-
-**To use the app in offline mode user needs to download all the pictures of the contacts from the menu option Download Images. After downloading all the images users can see the picture of all contacts even there is no internet connections.**
-
-Users can send one message to all of the contacts available in the app. 
-
-In case there need to change the JSON URL where data is retrieved user need to go to the menu option Input JSON URL and enter the JSON URL. Then the default one will be replaced.
-
-Users can change the mode of the app from the menu option App modes where a couple of modes available.
-
 ### Version
-1.0
+1.5
 
 ### Used technologies/libraries/etc
 1. JSON persing to retrieve data
-2. Database to save data for offline and for favorites
+2. Searching option
 3. Notification manager to push birthday notifications
 4. Tab fragments to view contents
 5. Image downloader to use image in offline
@@ -55,8 +37,9 @@ Users can change the mode of the app from the menu option App modes where a coup
 
 ### Developer
 **Md. Saiful Haque**<br>
-**Facebook:**<br>
-<a href="https://www.facebook.com/unwantedhridoy.cptrii"> <img src="https://github.com/shhridoy/Fatwa_Arkanul_Islam/blob/master/screenshots/220px-Facebook.svg.png?raw=true" width="80" height="30"> </a><br>
-**Instagram:**<br>https://www.instagram.com/_sh_hridoy/
-
+**AGM IT**<br>
+**Comilla Palli Bidyut Samity-2**<br>
 **Email:** <br>md.saifulhq@gmail.com
+
+### Download
+<a href="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/raw/main/jsons/CumillaPBS2/application/Cumilla_PBS-2_app.apk">
