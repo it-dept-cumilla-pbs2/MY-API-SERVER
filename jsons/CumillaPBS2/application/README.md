@@ -1,15 +1,12 @@
-<img src="https://github.com/shhridoy/CSTE10NSTU_Directory/blob/master/ScreenShots/ic_launcher.png?raw=true" width="60" height="60">
+<img src="https://github.com/it-dept-cumilla-pbs2/MY-API-SERVER/blob/main/images/screenshots/logo.png?raw=true" width="60" height="60">
 
-# Directory of CSTE 10 NSTU
+# কুমিল্লা পল্লী বিদ্যুৎ সমিতি-২ Mobile Application
 
-It is a directory of basic information about all student of CSTE 10th batch of NSTU. 
-It contains all information about a student which is probably needed to keep contact with that student. 
-It includes mobile numbers, email addresses, birthdays, hometown and social links like Facebook, Instagram, 
-Twitter, Linkedin, Github etc. 
+কুমিল্লা পল্লী বিদ্যুৎ সমিতি-২ এর Mobile Application এ অত্র প্রতিষ্ঠানের সকল কার্যপ্রণালী এবং সকল কর্মকর্তা-কর্মচারীর তথ্য লিপিবদ্ধ আছে।
 
 ### App Features
-* All contacts under a simple list
-* Search option to find contacts
+* সকল কর্মকর্তা-কর্মচারীর দরকারী সকল তথ্য (Contact number, Email address, Blood group etc.)
+* কর্মকর্তা-কর্মচারী সহজে খূঁজে বের করার সুবিধা
 * Data can be viewed in both offline and online mode
 * Contacts can be added to Favorites
 * Direct call, message and email facitilies
